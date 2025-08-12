@@ -23,3 +23,4 @@ data:extend({
 table.insert(data.raw["technology"]["low-density-structure"].prerequisites, "dd-titanium-processing")
 table.insert(data.raw["technology"]["construction-robotics"].prerequisites, "dd-titanium-processing")
 table.insert(data.raw["technology"]["logistic-robotics"].prerequisites, "dd-titanium-processing")
+table.insert(data.raw["technology"]["nuclear-power"].prerequisites, "dd-titanium-processing")
