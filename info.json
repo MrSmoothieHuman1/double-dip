@@ -1,0 +1,9 @@
+{
+  "name": "double-dip",
+  "version": "1.0.0",
+  "title": "Double Dip",
+  "author": "Mr.SmoothieHuman",
+  "factorio_version": "2.0",
+  "dependencies": ["base >= 2.0"],
+  "description": "A mod that lightly expands vanilla with new and more advanced processes."
+}
