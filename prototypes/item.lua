@@ -12,6 +12,6 @@ data:extend({
         name = "dd-titanium-plate",
         icon_size = 64,
         icon = "__double-dip__/graphics/icons/placeholder.png",
-        stack_size = 50
+        stack_size = 100
     }
 })
