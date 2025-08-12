@@ -7,10 +7,10 @@ data:extend({
         icon = "__double-dip__/graphics/icons/titanium-ore.png",
         pictures =
         {
-            {filename = "__periodic-madness__/graphics/icons/ores/titanium-ore.png", size = 64, scale = 0.5},
-            {filename = "__periodic-madness__/graphics/icons/ores/titanium-ore-2.png", size = 64, scale = 0.5},
-            {filename = "__periodic-madness__/graphics/icons/ores/titanium-ore-3.png", size = 64, scale = 0.5},
-            {filename = "__periodic-madness__/graphics/icons/ores/titanium-ore-4.png", size = 64, scale = 0.5},
+            {filename = "__double-dip__/graphics/icons/titanium-ore.png", size = 64, scale = 0.5},
+            {filename = "__double-dip__/graphics/icons/titanium-ore-2.png", size = 64, scale = 0.5},
+            {filename = "__double-dip__/graphics/icons/titanium-ore-3.png", size = 64, scale = 0.5},
+            {filename = "__double-dip__/graphics/icons/titanium-ore-4.png", size = 64, scale = 0.5},
         },
         stack_size = 50
     },
