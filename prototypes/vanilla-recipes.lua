@@ -1,0 +1,2 @@
+table.insert(data.raw["recipe"]["construction-robot"].ingredients, PM.ingredient("dd-titanium-plate", 2))
+table.insert(data.raw["recipe"]["logistic-robot"].ingredients, PM.ingredient("dd-titanium-plate", 2))
