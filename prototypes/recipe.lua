@@ -4,7 +4,7 @@ data:extend({
         type = "recipe",
         name = "dd-titanium-oxide",
         enabled = false,
-        energy_required = 16,
+        energy_required = 8,
         allow_productivity = true,
         category = "chemistry",
         ingredients =
@@ -28,7 +28,7 @@ data:extend({
         {
             PM.ingredient("dd-titanium-oxide", 2)
         },
-        results = 
+        results =
         {
             PM.product("dd-titanium-plate", 1)
         }
