@@ -18,7 +18,7 @@ data:extend({
         type = "item",
         name = "dd-titanium-plate",
         icon_size = 64,
-        icon = "__double-dip__/graphics/icons/titanium-ore.png",
+        icon = "__double-dip__/graphics/icons/titanium-plate.png",
         stack_size = 100
     }
 })
