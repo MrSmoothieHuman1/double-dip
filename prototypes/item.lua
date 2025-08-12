@@ -12,6 +12,8 @@ data:extend({
             {filename = "__double-dip__/graphics/icons/titanium-ore-3.png", size = 64, scale = 0.5},
             {filename = "__double-dip__/graphics/icons/titanium-ore-4.png", size = 64, scale = 0.5},
         },
+        subgroup = "raw-resource",
+        order = "fa[titanium-ore]",
         stack_size = 50
     },
     {
@@ -26,6 +28,8 @@ data:extend({
             {filename = "__double-dip__/graphics/icons/titanium-ore-3.png", size = 64, scale = 0.5},
             {filename = "__double-dip__/graphics/icons/titanium-ore-4.png", size = 64, scale = 0.5},
         },
+        subgroup = "raw-resource",
+        order = "fb[titanium-oxide]",
         stack_size = 50
     },
     {
@@ -33,6 +37,8 @@ data:extend({
         name = "dd-titanium-plate",
         icon_size = 64,
         icon = "__double-dip__/graphics/icons/titanium-plate.png",
+        subgroup = "raw-material",
+        order = "a[smelting]-ca[titanium-plate]",
         stack_size = 100
     }
 })
