@@ -15,3 +15,4 @@ data:extend({
         stack_size = 100
     }
 })
+--test
