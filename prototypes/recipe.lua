@@ -32,5 +32,23 @@ data:extend({
         {
             PM.product("dd-titanium-plate", 1)
         }
+    },
+
+    {
+        type = "recipe",
+        name = "dd-rocket-control-unit",
+        enabled = false,
+        energy_required = 30,
+        category = "crafting-with-fluid",
+        ingredients =
+        {
+            PM.ingredient("processing-unit", 1),
+            PM.ingredient("plastic-bar", 2),
+            PM.ingredient("lubricant", 5, "fluid"),
+        },
+        results = 
+        {
+            PM.product("dd-rocket-control-unit", 1)
+        }
     }
 })

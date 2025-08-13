@@ -40,5 +40,15 @@ data:extend({
         subgroup = "raw-material",
         order = "a[smelting]-ca[titanium-plate]",
         stack_size = 100
-    }
+    },
+
+    {
+        type = "item",
+        name = "dd-rocket-control-unit",
+        icon_size = 64,
+        icon = "__double-dip__/graphics/icons/rocket-control-unit.png",
+        subgroup = "intermediate-product",
+        order = "d[rocket-parts]-c[rocket-control-unit]",
+        stack_size = 50
+    },
 })
